@@ -1,0 +1,18 @@
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #ffe475;
+  padding: 1.2rem;
+}
+
+.app__cart-icon {
+  background: white;
+  height: 45px;
+  border-radius: 12px;
+  width: 150px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+}

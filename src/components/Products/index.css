@@ -1,0 +1,29 @@
+.app__product-img img {
+  height: 120px;
+}
+
+.app__product-img {
+  position: relative;
+}
+
+.app__products-container {
+  display: flex;
+  gap: 2rem;
+  list-style: none;
+}
+
+.app__product-details-card {
+  border-bottom: 1px solid black;
+}
+
+.btn {
+  background-color: transparent;
+  font-size: 60px;
+  color: #40d589;
+  border: none;
+  position: absolute;
+  top: 0;
+  right: -20%;
+  bottom: 0;
+  cursor: pointer;
+}
